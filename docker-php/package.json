@@ -1,0 +1,20 @@
+{
+  "name": "docker-php",
+  "version": "1.0.0",
+  "description": "<b> Nginx - Laravel - VueJS - Mysql<b/>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sercannozenn/docker-php.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sercannozenn/docker-php/issues"
+  },
+  "homepage": "https://github.com/sercannozenn/docker-php#readme"
+}
